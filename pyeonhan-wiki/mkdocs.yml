@@ -1,0 +1,24 @@
+
+site_name: 편한 위키
+site_url: https://winningteamourteamwiki.vercel.app
+theme:
+  name: material
+  logo: images/logo-pyeonhanwiki-final.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light blue
+  font:
+    text: Noto Sans KR
+    code: Fira Code
+nav:
+  - 개요: index.md
+  - 선수:
+      - 김찬수: 선수/김찬수.md
+plugins:
+  - search
