@@ -1,0 +1,20 @@
+
+site_name: 편한 위키
+theme:
+  name: material
+  logo: images/logo.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light blue
+  font:
+    text: Noto Sans KR
+    code: Fira Code
+nav:
+  - 개요: index.md
+
