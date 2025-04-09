@@ -2,7 +2,7 @@
 site_name: 편한 위키
 theme:
   name: material
-  logo: images/logo.png
+  logo: images/logo-pyeonhanwiki-final.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
