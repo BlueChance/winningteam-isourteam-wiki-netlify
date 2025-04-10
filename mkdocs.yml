@@ -19,6 +19,8 @@ theme:
   font:
     text: Noto Sans KR
     code: Fira Code
+  extra_css: 
+    - stylesheets/extra.css
 nav:
   - 개요: index.md
   - 구단 디자인:
