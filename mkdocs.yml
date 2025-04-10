@@ -35,7 +35,7 @@ nav:
       - 현역 선수진: present_players/present_players/present_players.md
       - 감독: present_executives/manager/manager.md
       - 개별 선수 목록: 
-          - 김찬수: 현역 선수단/players/present/28kimchansoo.md
+          - 김찬수: present_players/players/present/28kimchansoo.md
   - 타 구단과의 관계:
       - Pirates: with_other_teams/Pirates.md
   - 역대 선수 및 인물:
