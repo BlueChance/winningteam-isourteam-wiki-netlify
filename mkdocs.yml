@@ -22,56 +22,56 @@ theme:
 nav:
   - 개요: index.md
   - 구단 디자인:
-      - 유니폼: 구단 디자인/유니폼/유니폼.md
-  - 역사: 역사/역사.md
-  - 팀 컬러: 팀 컬러/팀컬러.md
-  - 상세: 상세/상세.md
+      - 유니폼: pyeon_design/uniform/uniform.md
+  - 역사: history/history.md
+  - 팀컬러: team_color/team_color.md
+  - 상세: learn_more/learn_more.md
   - 현역 임원진: 
-      - 개요: 현역 임원진/개요/현역 임원진.md
-      - 감독: 현역 임원진/감독/감독.md
-      - 주장: 현역 임원진/주장/주장.md
-      - 총무: 현역 임원진/총무/총무.md
+      - 개요: present_executives/index/present_executives.md
+      - 감독: present_executives/manager/manager.md
+      - 주장: present_executives/captain/captain.md
+      - 총무: present_executives/administrator/administrator.md
   - 현역 선수단: 
-      - 현역 선수진: 현역 선수단/현역 선수진/현역 선수진.md
-      - 감독: 현역 선수단/감독/감독.md
-      - 선수: 
-          - 김찬수: 현역 선수단/선수/현역/김찬수.md
+      - 현역 선수진: present_players/present_players/present_players.md
+      - 감독: present_executives/manager/manager.md
+      - 개별 선수 목록: 
+          - 김찬수: 현역 선수단/players/present/28kimchansoo.md
   - 타 구단과의 관계:
-      - Pirates: 타 구단과의 관계/Pirates.md
+      - Pirates: with_other_teams/Pirates.md
   - 역대 선수 및 인물:
-      - 영구 결번: 역대 선수 및 인물/영구 결번/영구 결번.md
-      - 역대 감독: 역대 선수 및 인물/역대 감독/감독.md
-      - 역대 주장: 역대 선수 및 인물/역대 주장/주장.md
-      - 역대 총무: 역대 선수 및 인물/역대 총무/총무.md
-      - 역대 임원진: 역대 선수 및 인물/역대 임원진/역대 임원진.md
-      - 역대 선수단 및 등번호: 역대 선수 및 인물/역대 선수단 및 등번호/역대선수단.md
+      - 영구 결번: all_previous_players_and_staff/retired_number/retired_number.md
+      - 역대 감독: all_previous_players_and_staff/manager_of_all_time/manager_1_kimchanhee.md
+      - 역대 주장: all_previous_players_and_staff/captian_of_all_time/captain_1_kodonghyun.md
+      - 역대 총무: all_previous_players_and_staff/administrater_of_all_time/administer_1_yoobyeongchan.md
+      - 역대 임원진: all_previous_players_and_staff/executives_of_all_time/1st_executives.md
+      - 역대 선수단 및 등번호: all_previous_players_and_staff/all_previous_sqads_and_numbers/all_previous_sqads.md
   - 역대 기록:
       - 공식 리그 성적:
           - 2024하반기드림리그:
               - 경기일정: 
-                  - 20240727-0830: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20240727-0830/결과.md
-                  - 20240810-0830: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20240810-0830/결과.md
-                  - 20240824-0830: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20240824-0830/결과.md
-                  - 20240831-1730: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20240831-1730/결과.md
-                  - 20240907-0830: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20240907-0830/결과.md
-                  - 20241005-0830: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20241005-0830/결과.md
-                  - 20241012-1100: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20241012-1100/결과.md
-                  - 20241019-1730: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20241019-1730/결과.md
-                  - 20241102-0800: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20241102-0800/결과.md
-                  - 20241116-0800: 역대 기록/공식 리그 성적/2024하반기드림리그/경기일정/20241116-0800/결과.md
-              - 구단성적: 역대 기록/공식 리그 성적/2024하반기드림리그/구단 성적/구단성적.md
-              - 상대전적: 역대 기록/공식 리그 성적/2024하반기드림리그/상대 전적/상대 전적.md
-          - 포스트 시즌 전적: 역대 기록/공식 리그 성적/2024하반기드림리그/포스트 시즌 전적/포스트시즌.md
+                  - 20240727-0830: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20240727-0830/result.md
+                  - 20240810-0830: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20240810-0830/result.md
+                  - 20240824-0830: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20240824-0830/result.md
+                  - 20240831-1730: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20240831-1730/result.md
+                  - 20240907-0830: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20240907-0830/result.md
+                  - 20241005-0830: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20241005-0830/result.md
+                  - 20241012-1100: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20241012-1100/result.md
+                  - 20241019-1730: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20241019-1730/result.md
+                  - 20241102-0800: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20241102-0800/result.md
+                  - 20241116-0800: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/match_schedule/20241116-0800/result.md
+              - 구단성적: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/club_performance/club_performance.md
+              - 상대전적: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/relative_performance/relative_performance.md
+          - 포스트 시즌 전적: records_of_all_season_together/official_leage_performance/2024_secondhalf_namyangju_dreamleage/post_season_performance/post_season_performance.md
       - 개인 성적:
-          - 통산: 역대 기록/개인 성적/통산/통산.md
-          - 단일 시즌: 역대 기록/개인 성적/단일시즌/단일시즌.md
+          - 통산: records_of_all_season_together/indivisual_performance/career_performance/career_performance.md
+          - 단일 시즌: records_of_all_season_together/indivisual_performance/single_season/single_season.md
       - 타이틀 홀더:
-          - 타자: 역대 기록/타이틀 홀더/타자/타자.md
-          - 투수: 역대 기록/타이틀 홀더/투수/투수.md
-          - MVP 및 신인왕: 역대 기록/타이틀 홀더/MVP 및 신인왕/MVP신인왕.md
+          - 타자: records_of_all_season_together/title_holder/hitter/hitter_someday.md
+          - 투수: records_of_all_season_together/title_holder/pitcher/pitcher_someday.md
+          - MVP 및 신인왕: records_of_all_season_together/title_holder/mvp_and_rookie_of_the_year/mvp_and_rookie_of_the_year.md
       - 시즌별 팀 내 최고기록:
-          - 2024 하반기 드림리그: 역대 기록/시즌별 팀 내 최고기록/2024하반기드림리그/결과.md
-  - 캐치프레이즈: 캐치프레이즈/캐치프레이즈.md
-  - 논란 및 사건 사고: 논란 및 사건 사고/논란사건.md
-  - 이야깃거리: 이야깃거리/이야기.md
+          - 2024 하반기 드림리그: records_of_all_season_together/team_best_record_by_season/2024_secondhalf_namyangju_dreamleage/2024_secondhalf_namyangju_dreamleage.md
+  - 캐치프레이즈: catchphrase/catchphrase.md
+  - 논란 및 사건 사고: incidents/incidents.md
+  - 이야깃거리: stories/stories.md
 
