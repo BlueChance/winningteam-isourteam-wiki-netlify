@@ -37,7 +37,8 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
 (편 야구단) 8 : 22 (강남 베이스볼 클럽)<br>
 
 ## 2025년 4월 12일 경기 박스 스코어
-
+<div class="scrollable">
+<table class="boxscore">
 <table>
   <thead>
     <tr>
@@ -120,8 +121,7 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
 <h2>편 야구단 박스 스코어</h2>
 
 <div class="scrollable">
-
-<table>
+<table class="boxscore">
   <thead>
     <tr>
       <th>타순</th>
@@ -147,64 +147,64 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
   </thead>
   <tbody>
     <tr>
-      <td>1</td><td>유</td><td>정승헌(17)</td>
-      <td>우안, 도루</td><td>유땅</td><td>4구</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>2</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0.500</td><td>0.500</td>
+      <td>1</td><td>유</td><td>유병찬(10)</td>
+      <td>삼진</td><td>좌중안,도루</td><td></td><td>삼진</td><td></td><td></td><td></td><td></td><td></td>
+      <td>3</td><td>1</td><td>2</td><td>0</td><td>1</td><td>0.333</td><td>0.333</td>
     </tr>
     <tr>
-      <td>2</td><td>1</td><td>전호영(39)</td>
-      <td>유땅</td><td></td><td>삼진/삼진</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.000</td><td>0.000</td>
+      <td>2</td><td>포</td><td>김찬수(28)</td>
+      <td>3땅</td><td></td><td>4구,주자아웃</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.000</td><td>0.000</td>
     </tr>
     <tr>
-      <td>3</td><td>중</td><td>조현식(43)</td>
-      <td>삼진</td><td></td><td>4구,도루</td><td>4구,도루자</td><td></td><td></td><td></td><td></td><td></td>
-      <td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0.000</td><td>0.000</td>
+      <td>2</td><td>미</td><td>이주혁(48)</td>
+      <td></td><td></td><td></td><td></td><td>4구</td><td></td><td></td><td></td><td></td>
+      <td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.000</td><td>0.000</td>
     </tr>
     <tr>
-      <td>4</td><td>2</td><td>고동현(49)</td>
-      <td>삼진</td><td></td><td>4구</td><td>4구,도루</td><td></td><td></td><td></td><td></td><td></td>
-      <td>1</td><td>0</td><td>0</td><td>2</td><td>1</td><td>0.000</td><td>0.000</td>
+      <td>3</td><td>1</td><td>김민재(24)</td>
+      <td>좌선2,도루</td><td>유땅R</td><td></td><td>유내안</td><td></td><td></td><td></td><td></td><td></td>
+      <td>3</td><td>2</td><td>0</td><td>1</td><td>1</td><td>0.667</td><td>0.667</td>
     </tr>
     <tr>
-      <td>5</td><td>지</td><td>김찬희(18)</td>
-      <td></td><td>우안</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>4</td><td>2</td><td>정의진(13)</td>
+      <td>낫아웃</td><td></td><td>유내안,주자아웃</td><td>우중2</td><td></td><td></td><td></td><td></td><td></td>
       <td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1.000</td><td>1.000</td>
     </tr>
     <tr>
-      <td>5</td><td>미</td><td>민경일(44)</td>
-      <td></td><td></td><td>좌안,주자아웃</td><td>좌중안</td><td></td><td></td><td></td><td></td><td></td>
-      <td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1.000</td><td>1.000</td>
+      <td>5</td><td>중</td><td>조현식(43)</td>
+      <td></td><td>2짱</td><td>유땅R</td><td>삼진</td><td></td><td></td><td></td><td></td><td></td>
+      <td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0.000</td><td>0.000</td>
     </tr>
     <tr>
-      <td>6</td><td>3</td><td>정의진(13)</td>
-      <td></td><td>삼진</td><td>2땅R</td><td>3땅</td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0.000</td><td>0.000</td>
+      <td>6</td><td>1</td><td>김진환(2)</td>
+      <td></td><td>좌안,견제사</td><td>좌원2</td><td>4구</td><td></td><td></td><td></td><td></td><td></td>
+      <td>2</td><td>2</td><td>0</td><td>1</td><td>0</td><td>1.000</td><td>1.000</td>
     </tr>
     <tr>
-      <td>7</td><td>우</td><td>박상민(87)</td>
-      <td></td><td>4구</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0.000</td><td>0.000</td>
+      <td>7</td><td>좌</td><td>박상민(87)</td>
+      <td></td><td>4구</td><td>좌안</td><td>우전2</td><td></td><td></td><td></td><td></td><td></td>
+      <td>2</td><td>2</td><td>3</td><td>1</td><td>0</td><td>1.000</td><td>1.000</td>
     </tr>
     <tr>
-      <td>7</td><td>미</td><td>김건표(12)</td>
-      <td></td><td></td><td></td><td>1땅</td><td></td><td></td><td></td><td></td><td></td>
-      <td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.000</td><td>0.00</td>
+      <td>8</td><td>한상우</td><td>한상우(15)</td>
+      <td></td><td>2내안</td><td></td><td>1땅</td><td></td><td></td><td></td><td></td><td></td>
+      <td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1.000</td><td>1.000</td>
     </tr>
     <tr>
-      <td>8</td><td>포</td><td>김찬수(28)</td>
-      <td></td><td>사구</td><td>4구</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.000</td><td>0.000</td>
+      <td>8</td><td>미</td><td>정찬민(99)</td>
+      <td></td><td></td><td>삼진</td><td>삼진</td><td></td><td></td><td></td><td></td><td></td>
+      <td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.000</td><td>0.000</td>
     </tr>
     <tr>
-      <td>9</td><td>좌</td><td>이태훈(91)</td>
-      <td></td><td>중희플</td><td>좌선2</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>1</td><td>1</td><td>3</td><td>0</td><td>0</td><td>1.000</td><td>1.000</td>
+      <td>9</td><td>포</td><td>이도원(77)</td>
+      <td></td><td>우월2</td><td>2플</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>2</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0.500</td><td>0.500</td>
     </tr>
     <tr>
       <td><strong>합계</strong></td>
-      <td colspan="9"></td>
-      <td>15</td><td>5</td><td>4</td><td>6</td><td>3</td><td>0.333</td><td>0.318</td>
+      <td colspan="12"></td>
+      <td>22</td><td>11</td><td>8</td><td>8</td><td>2</td><td>0.500</td><td>0.439</td>
     </tr>
   </tbody>
 </table>
@@ -212,11 +212,10 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
 
 
 
-<h2>레전드 매트릭스 타자 박스 스코어</h2>
+<h2>강남 베이스볼 클럽(GBC) 타자 박스 스코어</h2>
 
 <div class="scrollable">
-
-<table>
+<table class="boxscore">
   <thead>
     <tr>
       <th>타순</th>
@@ -242,70 +241,66 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
   </thead>
   <tbody>
     <tr>
-      <td>1</td><td>1</td><td>권동준(16)</td>
-      <td>4구,도루/1땅</td><td>4구</td><td>우안/좌플</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>0.333</td><td>0.333</td>
+      <td>1</td><td>1</td><td>김성하(43)</td>
+      <td>중안,도루,도루</td><td>우플/우안</td><td>사구/2직</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>4</td><td>2</td><td>1</td><td>3</td><td>2</td><td>0.500</td><td>0.714</td>
     </tr>
     <tr>
-      <td>2</td><td>2</td><td>황규인(57)</td>
-      <td>우중3</td><td>4구,도루/우월안</td><td>우월2</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>3</td><td>4</td><td>4</td><td>1</td><td>01000</td><td>1.000</td>
+      <td>2</td><td>유</td><td>유상수(68)</td>
+      <td>좌플</td><td>3내안, 도루/좌안, 도루</td><td>4구</td><td>3땅</td><td></td><td></td><td></td><td></td><td></td>
+      <td>4</td><td>2</td><td>1</td><td>3</td><td>2</td><td>0.500</td><td>0.286</td>
     </tr>
     <tr>
-      <td>2</td><td>미</td><td>김순기(3)</td>
-      <td></td><td></td><td></td><td>4구</td><td></td><td></td><td></td><td></td><td></td>
-      <td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0.000</td><td>0.000</td>
+      <td>3</td><td>우</td><td>심현중(1)</td>
+      <td>4구, 도루</td><td>좌안, 도루/좌중2</td><td>4구</td><td>우플</td><td></td><td></td><td></td><td></td><td></td>
+      <td>3</td><td>2</td><td>1</td><td>4</td><td>2</td><td>0.667</td><td>0.667</td>
     </tr>
     <tr>
-      <td>3</td><td>포</td><td>이원재(78)</td>
-      <td>중월3</td><td>4구/우안</td><td>좌희플</td><td>투안</td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>3</td><td>3</td><td>3</td><td>0</td><td>1.000</td><td>1.000</td>
+      <td>4</td><td>중</td><td>김병문(9)</td>
+      <td>삼진</td><td>4구/4구, 도루</td><td>4구</td><td>유실</td><td></td><td></td><td></td><td></td><td></td>
+      <td>2</td><td>0</td><td>1</td><td>3</td><td>1</td><td>0.000</td><td>0.600</td>
     </tr>
     <tr>
-      <td>4</td><td>좌</td><td>박주렬(69)</td>
-      <td>1직</td><td>중안,도루/삼진</td><td>우안</td><td>좌월안</td><td></td><td></td><td></td><td></td><td></td>
-      <td>5</td><td>3</td><td>3</td><td>2</td><td>1</td><td>0.600</td><td>0.600</td>
+      <td>5</td><td>투</td><td>최만기(33)</td>
+      <td>중월2</td><td>3실, 도루/타구맞</td><td>4구</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>2</td><td>1</td><td>3</td><td>3</td><td>1</td><td>0.500</td><td>0.333</td>
     </tr>
     <tr>
-      <td>5</td><td>유</td><td>강인제(50)</td>
-      <td>2내안</td><td>유플/중안</td><td>우중2</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>4</td><td>3</td><td>3</td><td>2</td><td>0</td><td>0.750</td><td>0.750</td>
+      <td>6</td><td>1</td><td>김진성(7)</td>
+      <td>우월2, 도루</td><td>중안, 도루</td><td>1내안</td><td>삼진</td><td></td><td></td><td></td><td></td><td></td>
+      <td>4</td><td>3</td><td>2</td><td>2</td><td>3</td><td>0.750</td><td>0.750</td>
     </tr>
     <tr>
-      <td>6</td><td>우</td><td>장민우(125)</td>
-      <td>우선2</td><td>4구/3땅</td><td>좌선2</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>2</td><td>2</td><td>2</td><td>0</td><td>0.667</td><td>0.667</td>
+      <td>7</td><td>3</td><td>김지훈(22)</td>
+      <td>4구, 도루</td><td>좌중안, 도루/우안, 도루</td><td>4구</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>1</td><td>1</td><td>3</td><td>2</td><td>3</td><td>1.000</td><td>0.750</td>
     </tr>
     <tr>
-      <td>7</td><td>3</td><td>김지만(52)</td>
-      <td>3땅</td><td>우중안</td><td>좌월2/좌플</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>4</td><td>2</td><td>2</td><td>2</td><td>0</td><td>0.500</td><td>0.500</td>
+      <td>8</td><td>포</td><td>김문규(100)</td>
+      <td>좌월2</td><td>사구/낫아웃</td><td>삼진</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>3</td><td>1</td><td>2</td><td>1</td><td>0</td><td>0.333</td><td>0.333</td>
     </tr>
     <tr>
-      <td>8</td><td>중</td><td>윤홍열(33)</td>
-      <td>우중안,도루</td><td>4구</td><td>좌안/좌안</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1.000</td><td>1.000</td>
-    </tr>
-    <tr>
-      <td>9</td><td>투</td><td>이현근(11)</td>
-      <td>4구</td><td>좌안</td><td>좌안/4구</td><td></td><td></td><td></td><td></td><td></td><td></td>
-      <td>2</td><td>2</td><td>2</td><td>2</td><td>0</td><td>1.000</td><td>1.000</td>
+      <td>9</td><td>좌</td><td>최현규(36)</td>
+      <td>투직</td><td>좌중3</td><td>우월안</td><td></td><td></td><td></td><td></td><td></td><td></td>
+      <td>4</td><td>2</td><td>5</td><td>1</td><td>0</td><td>0.500</td><td>0.500</td>
     </tr>
     <tr>
       <td><strong>합계</strong></td>
-      <td colspan="9"></td>
-      <td>30</td><td>22</td><td>23</td><td>23</td><td>4</td><td>0.733</td><td>0.685</td>
+      <td colspan="12"></td>
+      <td>27</td><td>14</td><td>20</td><td>22</td><td>14</td><td>0.519</td><td>0.548</td>
     </tr>
   </tbody>
 </table>
+</div>
+
 
 
 
 <h2>편 야구단 투수 박스 스코어</h2>
 
 <div class="scrollable">
-
-<table>
+<table class="boxscore">
   <thead>
      <tr>
           <th>선수</th>
@@ -330,28 +325,29 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
      </tr>
    </thead>
    <tbody>
-        <tr>
-           <td>채승병(29)</td>
-           <td>패</td><td>1 1/3</td><td>18</td><td>12</td><td>8</td><td>0</td><td>0</td><td>1=0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>12</td><td>12</td><td>0</td><td>63.16</td><td>63.16</td>
-        </tr>
         <tr>
            <td>이태훈(91)</td>
-           <td>-</td><td>1 2/3</td><td>19</td><td>16</td><td>12</td><td>0</td><td>0</td><td>1</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>9</td><td>8</td><td>0</td><td>33.73</td><td>33.73</td>
+           <td>패</td><td>1 1/3</td><td>21</td><td>16</td><td>11</td><td>0</td><td>0</td><td>0</td><td>4</td><td>1</td><td>1</td><td>1</td><td>0</td><td>16</td><td>5</td><td>0</td><td>26.32</td><td>30.33</td>
         </tr>
         <tr>
-           <td>정의진(13)</td>
-           <td>-</td><td>0</td><td>3</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td><td>0</td><td>-</td><td>-</td>
+           <td>채승병(29)</td>
+           <td>-</td><td>1</td><td>13</td><td>5</td><td>2</td><td>0</td><td>0</td><td>0</td><td>7</td><td>1</td><td>3</td><td>0</td><td>0</td><td>6</td><td>5</td><td>0</td><td>35.00</td><td>51.07</td>
+        </tr>
+        <tr>
+           <td>김찬희(18)</td>
+           <td>-</td><td>1 1/3</td><td>6</td><td>6</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td>
         </tr>
   </tbody>
 </table>
+</div>
 
 
 
-<h2>레전드 매트릭스 투수 박스 스코어</h2>
+
+<h2>강남 베이스볼 클럽 투수 박스 스코어</h2>
 
 <div class="scrollable">
-
-<table>
+<table class="boxscore">
   <thead>
      <tr>
           <th>선수</th>
@@ -377,25 +373,55 @@ KCS Sports 선정 편 MVP : **한상우(15)**<br>
    </thead>
    <tbody>
         <tr>
-           <td>이현근(11)</td>
-           <td>승</td><td>3</td><td>20</td><td>12</td><td>4</td><td>0</td><td>0</td><td>1</td><td>6</td><td>1</td><td>5</td><td>0</td><td>0</td><td>5</td><td>3</td><td>0</td><td>7.00</td><td>7.00</td>
+           <td>최만기(33)</td>
+           <td>승</td><td>3</td><td>18</td><td>16</td><td>8</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>3</td><td>0</td><td>0</td><td>4</td><td>2</td><td>0</td><td>4.67</td><td>4.67</td>
         </tr>
         <tr>
-           <td>황규인(57)</td>
-           <td>-</td><td>1</td><td>5</td><td>3</td><td>1</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0.00</td><td>0.00</td>
+           <td>김진성(7)</td>
+           <td>-</td><td>1</td><td>8</td><td>6</td><td>3</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>3</td><td>0</td><td>0</td><td>4</td><td>4</td><td>0</td><td>28.00</td><td>28.00</td>
         </tr>
   </tbody>
 </table>
+</div>
+
 
 
 <br>
 <br>
 <strong>경기 프리뷰</strong><br>
-파워리그에서의 첫 경기. 상대는 지난 시즌 우승팀이었으며, 정규 시즌 전승. 결승에서의 패배도 유니폼 조항에 따른 몰수패로 알려져 있다. 리그를 대표하는 강팀을 만난 만큼 이길 가능성이 크진 않지만, 최선을 다해야 할 것이다. 여러모로 지난 리그 첫경기와는 다르다. 다만 반년이라는 시간이 지나면서 편 야구단의 전력도 많이 강화되었고, 젊은 팀이라는 특성상 발전이 빠른 편이기 때문에 해볼만하다는 의견도 있다. 다만 유병찬이 개인 사정으로 빠졌으며, 이에따라 정승헌이 유격수를 보고 3루수를 정의진이 볼 가능성이 높다. 포수 마스크는 김찬수가 그대로 쓸 확률이 높다. 편 야구단의 대표 선발투수 채승병이 선발 투수로 마운드에 오를 가능성이 높고, 첫번째 구원 투수는 이태훈일 가능성이 높다. 2루수를 주장 고동현이 출전할지 민경일이 출전할지도 관심거리다. 또한 지난시즌 많이 나오지 못한 박상민 선수가 외야수로 선발출전할 것으로 예상된다. 아예 정의진을 선발로 돌리고 고동현을 3루로 돌리며 민경일을 선발출장 시킬 가능성도 있지만 정배는 아니다. 지난시즌 준수한 출루율을 보여줬던 조현식이 이번시즌에 어떤 모습을 보여줄지도 관심거리. 지난시즌 팀 내 최다 출루율, 최다 도루에 오른 김찬수가 하위타선에서 활로를 열어줘야 할 것이다.<br>
+<br>
+경기 참여 투표: 김민재 김찬수 이도원 정찬민 박상민 유병찬 이주혁 이태훈 정의진 조현식 채승병 한상우 김찬희<br>
+<br>
+예상 선발투수: 채승병<br>
+<br>
+직전 경기와 달리 유병찬 선수가 복귀했지만, 전호영 선수가 출전이 불가능하다고 밝히며 1루수 자리가 무주공산이 되었다. 게임원 기준으로 전멸했을정도. 다만 김민재/김찬희/조현식 중 한명이 1루수를 볼 것으로 보인다. 포수 김찬수가 직전 훈련에서 타구에 이를 맞아 추가부상 방지를 위해 후보로 빠지거나 결장할 것으로 보인다. 새롭게 등록된 정찬민 선수가 경기에 어떤 모습을 보여줄 수 있는지가 기대사항이다.<br>
+선발투수는 채승병이나 이태훈이 맡을 가능성이 높다. 다만 지난경기에서 이태훈 선수의 타격을 생각하면 이태훈 선수가 외야수로 출전할 수도 있다.<br>
+<br>
+총 투수진은 채승병 이태훈 정의진 김찬희.<br>
+포수는 김찬수(부상의심)<br>
+1루수 전멸<br>
+2루수 한상우<br>
+3루수 정의진<br>
+유격수 유병찬<br>
+외야수 김민재 이도원 박상민 이주혁 조현식<br>
+미지정 정찬민<br>
+<br>
+뎁스를 생각하면, 외야수 5인중 1명이 1루를 맡을 가능성이 높아보인다. 중견수는 조현식 or 김민재가 맡을 것이라 추측된다.<br>
+포수는 그나마 포수출신 외야수 이도원 선수나, 연습장에서나마 마스크를 썼던 김찬희 선수가 쓸 것으로 추측된다.<br>
+<br>
+상대하는 팀은 직전 리그경기 New Pirates와의 경기에서 15:16으로 5회말 3득점에 성공해 역전승을 거둔 바 있다.그 외 파워리그 슈퍼루키에서는 2승2패(득실 +11)를 거두고 있다.<br>
+편 야구단이 한달만의 리그 경기에서 성공적으로 이끌 수 있을지 기대되는 바이다.<br>
+여담으로, 이 경기는 편 야구단 첫 친선경기 이후 567일이 지났다. 또한 첫 승리 이후 260일째 되는 날이다.(시작일 포함)<br>
 <br>
 <br>
 <strong>경기 내용</strong><br>
-꽤 큰 차이로 패배했다.. 여름 경기였다면 드림리그 첫경기의 기적을 노려볼 수도 있었지만 봄경기인 만큼 그럴 가능성도 적었다. GBC는 경기개시시간에 9명, 경기중에는 총 10명이었다. 그러나 안타 개수가 4배 이상 차이날 정도로 압도당했다. 도루와 사사구가 비슷했다는 점은 위안거리. 정찬민 선수가 데뷔하였다. 또한 한상우 선수의 커리어 첫 안타, 박상민 선수의 첫 타점이 있었다.<br>
+대략 22ㄷ9 정도로 패배했다. 거의 10점을 뽑아내며 좋은 모습을 보여주었지만 계속해서 안타를 맞으며 패배하였다.
+김민재 선수가 마지막 회 수비에서 피가 남에도 불구에도 부상투혼을 보여주었다. 송구 중에 손톱이 들린 것 같다고 전했다.
+한상우 첫안타, 멀티히트, 맹활약
+박상민 리그경기 첫타점
+1루 비디오판독 (포스아웃 ㅡ 세이프로 정정.)
+
+<strong>경기 현황</strong><br>
 1회초 정승헌의 초구 안타와 도루로 기대감을 자아냈지만, 후속 타자가 땅볼/삼진/삼진으로 아쉬움을 삼켜야 했다. 총 0실점<br>
 <br>
 1회말 레전드 매트릭스는 선두타자 볼넷과 도루에 힘입어 3루타 2번으로 순식간에 2점을 만들어 냈으며, 박주렬을 전호영이 잡아내며 분위기를 가져오는가 싶었지만 2연속 안타를 맞았고, 7번타자를 3땅으로 잡아내었지만 후속타자에게 안타와 볼넷을 내주었다. 그 후 1순위를 돈 1번타자 권동준에게 1루수땅볼을 잡아내며 이닝종료. 총 5실점<br>
