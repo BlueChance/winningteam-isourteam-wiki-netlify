@@ -18,3 +18,22 @@
   font-style: italic;
   font-size: 0.95em;
 }
+/* 박스 스코어 표 좁게 만들기 */
+table {
+  font-size: 0.75em;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 3px 6px;
+  white-space: nowrap;
+}
+
+/* 가로 스크롤 지원 */
+.scrollable {
+  overflow-x: auto;
+}
+
+.scrollable table {
+  min-width: 900px;
+}
