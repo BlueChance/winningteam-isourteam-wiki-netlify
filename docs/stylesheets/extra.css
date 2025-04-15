@@ -37,3 +37,9 @@ th, td {
 .scrollable table {
   min-width: 900px;
 }
+.secret-note {
+  color: #999;               /* 회색 글씨 */
+  font-style: italic;        /* 이탤릭체 */
+  text-decoration: line-through;  /* 줄긋기 */
+  font-size: 0.95em;         /* 약간 작은 글씨 */
+}
