@@ -10,7 +10,7 @@
 경기 참여 투표 외에, 한상우 선수가 간을 좀 보겠다고 말했다.<span class="secret-note">간상우</span> 사유는 결혼식 <span class="secret-note">5이닝만 뛰고 가도 되나요</span> <span class="secret-note">우리 지난경기 4회도 다 못했는데?</span><br>
 투표만으로 보면 지난주보다 2명이 덜 참가했으며, 한상우 선수가 불참한다고 가정하면 3명이 적은 채로 경기해야 하는 셈이다. 김찬수는 여전히 부상중이다.<br>
 지난경기 2루수를 보았던 정의진 선수도 불참하게 되면서 내야의 안정성이 떨어졌다는 우려도 존재한다. 내야수 김태영 선수가 돌아온 것은 긍정적.<br>
-김민재 선수가 출전 가능하다고 밝혀 카톡방에 초대되었고, 한상우 선수는 불참하였다.<span class="secret-note">진짜 간상우</span> <span class="secret-note"><span class="secret-note">근데 진짜 곧 가잖아</span><br>
+김민재 선수가 출전 가능하다고 밝혀 카톡방에 초대되었고, 한상우 선수는 불참하였다.<span class="secret-note">진짜 간상우</span> <span class="secret-note">근데 진짜 곧 가잖아</span><br>
 <br>
 투수진 채승병 이태훈 김찬희.<br>
 포수는 김찬수(부상의심)<br>
